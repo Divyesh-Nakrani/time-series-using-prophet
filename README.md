@@ -1,3 +1,3 @@
-# time-series-uisng-prophet
+# time-series-using-prophet
 
 we perform time series analysis using prophet....
